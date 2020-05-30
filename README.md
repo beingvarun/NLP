@@ -1,6 +1,6 @@
 # NLP
 Natural Language Processing
 
-##install
+## install
 
 conda install nltk
